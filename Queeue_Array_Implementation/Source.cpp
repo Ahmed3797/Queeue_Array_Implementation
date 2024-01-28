@@ -55,10 +55,7 @@ int main()
 	cout << obj->Dequeu() << endl;
 	cout << obj->Dequeu() << endl;
 
-	//cout << 6 % 5 << endl;
-	//cout << 1 % 5 << endl;
-	//cout << 2 % 5 << endl;
-
+	
 
 	return 0;
 }
